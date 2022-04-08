@@ -1,10 +1,10 @@
-# ForestScape
- Early build from the game ForestScape
+# TertiumGameDemo
+ Early build from the game Tertium
 
 
-![Img 1](/Imagens/ScapeForestSS1.png)
-![Img 2](/Imagens/ScapeForestSS2.png)
-![Img 3](/Imagens/ScapeForestSS3.png)
-![Img 4](/Imagens/ScapeForestSS4.png)
-![Img 5](/Imagens/ScapeForestSS5.png)
-![Img MENU](/Imagens/ScapeForestSSMENU.png)
+![GIF](img/TertiumGIF.gif)
+![Img 1](img/TertiumSS1.img)
+![Img 1](img/TertiumSS2.img)
+![Img 1](img/TertiumSS3.img)
+![Img 1](img/TertiumSS4.img)
+
