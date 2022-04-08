@@ -3,8 +3,8 @@
 
 
 ![GIF](img/TertiumGIF.gif)
-![Img 1](img/TertiumSS1.img)
-![Img 1](img/TertiumSS2.img)
-![Img 1](img/TertiumSS3.img)
-![Img 1](img/TertiumSS4.img)
+![Img 1](img/TertiumSS1.png)
+![Img 2](img/TertiumSS2.png)
+![Img 3](img/TertiumSS3.png)
+![Img 4](img/TertiumSS4.png)
 
